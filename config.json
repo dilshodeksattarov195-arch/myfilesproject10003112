@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailealidate",
+        "uuid": 28922928,
+        "checksum": "isf7"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
